@@ -1,1 +1,1 @@
-# deeplearning
+# Deeplearning (ANN,CNN,RNN,GAN,BOLTZMAN MACHINE,SOM's)
